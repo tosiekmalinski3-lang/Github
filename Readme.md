@@ -2,4 +2,4 @@
 
 Specjalna strona z pytaniem walentynkowym.
 
-[Otwórz stronę](https://tosiekmalinski3-lang.github.io/walentynka/)
+👉 [Otwórz walentynkową stronę](https://Malian000.github.io/walentynka/)
